@@ -1,6 +1,6 @@
 
 
-## OrangeHRM - My Info Module 
+## OrangeHRM - My Info Module Practice
 
 Review lead (trainerul de curs): responsible for the direction and findings of the review, and provide assurance to ministers, the department and the public body that it has been conducted with a level of independence. 
 Scribe: to record all decisions, actions and issues noted by the group during meetings, as well as recording significant discussion so that topics need not be revisited. Everyone in a meeting should consider it their responsibility to help the scribe.
