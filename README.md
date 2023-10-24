@@ -1,4 +1,4 @@
-####Practive Github
+#Practice in github
 
 ## OrangeHRM - My Info Module Practice
 
