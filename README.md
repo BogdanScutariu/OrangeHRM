@@ -1,4 +1,4 @@
-Learning
+Practice
 
 ## OrangeHRM - My Info Module Practice
 
